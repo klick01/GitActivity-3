@@ -3,6 +3,8 @@
 Adding a file to the repo so I can create and resolve a merge conflict.
 
 
-
-
 - Making a change for merge-conflict-activity-1
+
+
+- Creating another change for activity 2.
+
